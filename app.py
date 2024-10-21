@@ -12,6 +12,7 @@ st.set_page_config(
     page_title="MardukIA",
     page_icon="🏛️",
     layout="wide",
+    initial_sidebar_state="collapsed",
     menu_items={
         'Get Help': 'https://marduk.pro/',
         'Report a bug': None,
